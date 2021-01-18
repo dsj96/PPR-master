@@ -21,7 +21,7 @@ cd PPR-master
 # Data
 In our experiments, the Foursquare datasets are from https://sites.google.com/site/dbhongzhi/. And the Gowalla and Brightkite dataset are from https://snap.stanford.edu/data/loc-gowalla.html and http://snap.stanford.edu/data/loc-Gowalla.html.
 ## Data Format
-We utilize the first 80% chronological check-ins of each useras the training set, the remaining 20% as the test data.
+We utilize the first 80% chronological check-ins of each user as the training set, the remaining 20% as the test data.
 
 train_checkin_file.txt and test_checkin_file.txt :
 ```<USER ID> \t <CHECKIN TIME> \t <POI ID> \t <LONGITUDE> \t <LATITUDE>```
