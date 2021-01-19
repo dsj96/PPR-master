@@ -11,6 +11,7 @@ Clone this repo.
 ```
 git clone https://github.com/dsj96/PPR-master
 cd PPR-master
+chmod u+x train_PPR.sh
 ```
 ## Function
 1. ```gen_graph.py``` file is used for heterogeneous graph construction. Parameter ```theta``` is $\theta$ in Equ.2, and ```epsilon``` is $\varepsilon$ in Equ.6.
