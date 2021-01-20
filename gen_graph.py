@@ -23,13 +23,6 @@ def parse_args():
 
 
 def str_to_timestamp(time_string):
-    '''
-    @name:
-    @Date: '2020-06-29 22:43:05'
-    @msg:
-    @param {type} 'Mon Jul 25 02:03:30 +0000 2011'        '2010-10-07T15:27:40Z'
-    @return: float
-    '''
     # temp_str = time_string.split('+')
     # year = temp_str[1].lstrip('0 ')
     # Mon Jul 25 02:03:30 2011
