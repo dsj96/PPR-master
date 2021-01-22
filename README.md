@@ -1,7 +1,7 @@
 # PPR-master
 The implementation of the PPR model(Personalized POI Recommendation).
 
-Paper ```Personalized POI Recommendation:Spatio-Temporal Representation Learning withSocial Tie``` was accepted by DASFAA 2021.
+Paper ```Personalized POI Recommendation:Spatio-Temporal Representation Learning with Social Tie``` was accepted by DASFAA 2021.
 
 # Usage:
 ## Install dependencies 
