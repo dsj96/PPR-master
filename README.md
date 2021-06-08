@@ -42,5 +42,11 @@ python3 train.py --input_path dataset/toyset/ --input_size 16 --hidden_size 16 -
 # Cite
 Please cite our paper if you find this code useful for your research:
 ```
-update later...
+@inproceedings{dai2021personalized,
+  title={Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie.},
+  author={Dai, Shaojie and Yu, Yanwei and Fan, Hao and Dong, Junyu},
+  booktitle={DASFAA (1)},
+  pages={558--574},
+  year={2021}
+}
 ```
