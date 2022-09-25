@@ -4,7 +4,7 @@ The implementation of the PPR model(Personalized POI Recommendation).
 Paper ```Personalized POI Recommendation:Spatio-Temporal Representation Learning with Social Tie``` was accepted by DASFAA 2021.
 
 # Usage:
-LINE reference：https://github.com/tangjianpku/LINE
+Some questions about Embedding and ```line.cpp```, please refer to LINE (link: https://github.com/tangjianpku/LINE).
 
 ## Install dependencies 
 ```pip install -r requirements.txt```
