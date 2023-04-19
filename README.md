@@ -22,7 +22,7 @@ chmod u+x train_PPR.sh
 4. ```train.py``` file is used for training and evaluating the spatio-temporal neural network. Parameter ```DELT_T``` is the time constraint $\tau$, and ```INPUT_SIZE/2``` is the embedding dim $d$. You could also change the ```HIDDEN_SIZE, EPOCH, LR, LAYERS OR TEST_SAMPLE_NUM```. 
 
 # Data
-In our experiments, the Foursquare datasets are from https://sites.google.com/site/dbhongzhi/. And the Gowalla and Brightkite dataset are from https://snap.stanford.edu/data/loc-gowalla.html and http://snap.stanford.edu/data/loc-Gowalla.html.
+In our experiments, the Foursquare datasets are from https://sites.google.com/site/dbhongzhi/ (update: https://sites.google.com/view/hongzhi-yin/datasets). And the Gowalla and Brightkite dataset are from https://snap.stanford.edu/data/loc-gowalla.html and http://snap.stanford.edu/data/loc-Gowalla.html.
 ## Data Format
 We utilize the first 80% chronological check-ins of each user as the training set, the remaining 20% as the test data.
 
